@@ -1,0 +1,44 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ccc;
+}
+.right {
+    display: flex;
+    flex-direction: row;
+  
+    
+}
+.right a{
+    margin: 10px;
+
+    text-decoration: none;
+    font-size: larger;
+    color: #000;
+}
+.right img{
+    width: 50px;
+    margin: 10px;
+}
+.i4 img{
+    width: 325px;
+}
+.photo h4{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+}
+.m1{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    
+
+}

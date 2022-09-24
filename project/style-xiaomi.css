@@ -1,0 +1,89 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ccc;
+}
+.right {
+    display: flex;
+    flex-direction: row;
+  
+    
+}
+.right a{
+    margin: 10px;
+
+    text-decoration: none;
+    font-size: larger;
+    color: #000;
+}
+.right img{
+    width: 50px;
+    margin: 10px;
+}
+.i14 img{
+    width: 300px;
+}
+.i13 img{
+    width: 300px;
+}
+.i12 img{
+    width: 300px;
+}
+.i11 img{
+    width: 300px;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+
+.i14 h4{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.i13 h4{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.i12 h4{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.i11 h4{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+
+.i14 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #000;
+}
+.i13 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #000;
+}
+.i12 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #000;
+}
+.i11 a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #000;
+}

@@ -1,0 +1,137 @@
+.iphonephoto img{
+    display: flex;
+    width: 250px;
+}
+.right img{
+    width: 50px;
+    margin: 10px;
+}
+.right {
+    display: flex;
+    flex-direction: row;
+  
+    
+}
+.right a{
+    margin: 10px;
+
+    text-decoration: none;
+    font-size: larger;
+    color: #000;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ccc;
+}
+.left button {
+  margin-top: 20px;
+}
+.notephoto img{
+    display: flex;
+    width: 250px;
+}
+.huaweiphoto img{
+    display: flex;
+    width: 250px;
+
+}
+.xiaomiphoto img{
+    display: flex;
+    width: 250px;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.iphonephoto h4{
+    
+    
+    display: flex;
+    justify-content: center;
+}
+.iphonephoto a{
+    display: flex;
+    justify-content: center;
+}
+.notephoto h4{
+    display: flex;
+    justify-content: center;
+}
+.notephoto a{
+    display: flex;
+    justify-content: center;
+}
+.huaweiphoto h4{
+    display: flex;
+    justify-content: center;
+}
+.huaweiphoto a{
+    display: flex;
+    justify-content: center;
+}
+.xiaomiphoto h4{
+    display: flex;
+    justify-content: center;
+}
+.xiaomiphoto a{
+    display: flex;
+    justify-content: center;
+}
+.type {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.type a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+.btn{
+    color:white ;
+    background-color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.all a{
+    display: flex;
+    text-decoration: none;
+    color: #000;
+}
+.all h4{
+    display: flex;
+    color: red;
+}
+.img1{
+    width: 50px;
+
+
+}
+
+   
+.d1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:#ccc;
+    margin-top: 50px;
+}
+.c1{
+    align-items: center;
+}
+
+
+
